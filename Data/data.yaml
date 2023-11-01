@@ -1,5 +1,6 @@
-train: ../train/images
-val: ../val/images
+path: D:\courses_files\Projects\Smoke Detector\SmokeDetector\Data
+train: train\images
+val: val\images
 
 nc: 16
 names:
